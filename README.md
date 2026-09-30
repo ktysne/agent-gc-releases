@@ -5,7 +5,7 @@ Agent GC のソースコードは非公開で、このリポジトリには置�
 
 ## ダウンロード
 
-[Releases](https://github.com/ktysne/agent-gc-releases/releases) から、最新版の `AgentGC-<版>-win-x64.zip` をダウンロードしてください。
+[Releases](https://github.com/ktysne/agent-gc-releases/releases) から、最新版の `AgentGC-<バージョン>-win-x64.zip` をダウンロードしてください。
 
 各 Release に付いている「Source code (zip)」「Source code (tar.gz)」は GitHub が自動で付けるもので、中身はこのリポジトリ(この README だけ)です。
 アプリは入っていません。
